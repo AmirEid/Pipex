@@ -1,2 +1,3 @@
 # Pipex
-This project aims to deepen your understanding of the two concepts that you already know: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus.
+This project aims to understanding the unix system, exploring topics such as pipes and redirections. 
+This project strengthen the knowledge on environment variables, external commands, the use of functions such as dup2, access, execve and handling exit statuses. 
